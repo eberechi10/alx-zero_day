@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAiD
-echo "ALX School is cool!"
-=======
-echo "ALX School is cool!"
->>>>>>> update_script
+echo "ALX School is cool!"cool
